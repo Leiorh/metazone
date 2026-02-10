@@ -1,0 +1,9 @@
+# Ejecutables
+*.exe
+
+# Archivos temporales
+*.log
+
+# Configuraciones de editor
+.vscode/
+.idea/
